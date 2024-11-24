@@ -11,7 +11,7 @@ namespace MyFirstProyectCSharp
         static void Main(string[] args)
         {
             Console.WriteLine("Hello Word");
-            Console.ReadLine();
+            Console.ReadKey();
         }
     }
 }
