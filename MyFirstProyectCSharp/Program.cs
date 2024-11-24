@@ -11,6 +11,16 @@ namespace MyFirstProyectCSharp
         static void Main(string[] args)
         {
             Console.WriteLine("Hello Word");
+            string nombre;
+            Console.Write("Ingrese su nombre: ");
+            nombre = Console.ReadLine();
+            Console.WriteLine($"Tu nombre es: {nombre}");
+
+            int edad;
+            Console.Write("Ingresa tu edad: ");
+            edad = int.Parse(Console.ReadLine());
+            Console.WriteLine($"La edad es {edad}");
+
             Console.ReadKey();
         }
     }

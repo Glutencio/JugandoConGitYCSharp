@@ -5,6 +5,8 @@ VisualStudioVersion = 17.11.35312.102
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyFirstProyectCSharp", "MyFirstProyectCSharp\MyFirstProyectCSharp.csproj", "{C5668867-33C7-4463-BE7B-28A83C1D1B8A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ModeladoLibro", "ModeladoLibro\ModeladoLibro.csproj", "{2CCACB75-1410-42F5-8ED3-85F7F33A8EDE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{C5668867-33C7-4463-BE7B-28A83C1D1B8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C5668867-33C7-4463-BE7B-28A83C1D1B8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C5668867-33C7-4463-BE7B-28A83C1D1B8A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2CCACB75-1410-42F5-8ED3-85F7F33A8EDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CCACB75-1410-42F5-8ED3-85F7F33A8EDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CCACB75-1410-42F5-8ED3-85F7F33A8EDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CCACB75-1410-42F5-8ED3-85F7F33A8EDE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
